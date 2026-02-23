@@ -1,0 +1,8 @@
+print("enter first number")
+print("enter second number")
+n1=int(input())
+n2=int(input())
+Digit_Sum=(n1//10)+(n2%10)
+print("n1=",n1)
+print("n2=",n2)
+print("Digit sum=",Digit_Sum)

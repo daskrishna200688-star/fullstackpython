@@ -1,0 +1,11 @@
+print("enter first number")
+a=int(input())
+print("enter second number")
+b=int(input())
+print("enter third number")
+c=int(input())
+avg_num=a+b+c/3
+print("a=",a)
+print("b=",b)
+print("c=",c)
+print("average number=",avg_num)b=int(input())
